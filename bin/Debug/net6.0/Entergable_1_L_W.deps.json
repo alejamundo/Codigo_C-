@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Entergable_1_L_W/1.0.0": {
+        "runtime": {
+          "Entergable_1_L_W.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entergable_1_L_W/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
